@@ -1,0 +1,2 @@
+# AI项目构建器依赖
+requests>=2.25.0  # 用于与Ollama API通信
